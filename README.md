@@ -8,4 +8,10 @@ It allows us to use familiar web interface together with email notifications and
 
 This is not a support channel for TREZOR users. If you have a problem using TREZOR, contact our support at support@bitcointrezor.com
 
+Also, please, read our documentation first, before asking a question, so you can be sure you understand the concept and don't ask something that has already been explained:
+
+* [TREZOR User Manual](https://doc.satoshilabs.com/trezor-user/)
+* [TREZOR FAQ](https://doc.satoshilabs.com/trezor-faq/)
+* [TREZOR Developer's Guide](https://doc.satoshilabs.com/trezor-tech/)
+
 **⇒ [Go to Issues](https://github.com/trezor/community/issues)**
