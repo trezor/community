@@ -1,5 +1,7 @@
 # TREZOR Community
 
+[![gitter](https://badges.gitter.im/trezor/community.svg)](https://gitter.im/trezor/community)
+
 This repository does not hold any code.
 
 It is just for the discussion of TREZOR Developer Community via GitHub issues.
@@ -17,3 +19,5 @@ Also, please, read our documentation first, before asking a question, so you can
 * [TREZOR Developer's Guide](https://doc.satoshilabs.com/trezor-tech/)
 
 **⇒ [Go to Issues](https://github.com/trezor/community/issues)**
+
+**⇒ [Gitter chat](https://gitter.im/trezor/community)**
