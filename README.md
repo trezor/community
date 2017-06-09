@@ -8,11 +8,9 @@ It is just for the discussion of TREZOR Developer Community via GitHub issues.
 
 It allows us to use familiar web interface together with email notifications and also replies via email.
 
-This is not a support channel for TREZOR users. If you have a problem using TREZOR, contact our support at support@trezor.io
+This is not a support channel for TREZOR users. If you have an user question or problem, try [TREZOR subreddit](https://www.reddit.com/r/TREZOR) or [TREZOR Telegram group](https://t.me/trezortalk) first. If the problem persists, contact our support at support@trezor.io
 
-If you have an user question you might want to use [TREZOR subreddit](https://www.reddit.com/r/TREZOR) or [TREZOR Telegram group](https://t.me/trezortalk) instead.
-
-Also, please, read our documentation first, before asking a question, so you can be sure you understand the concept and don't ask something that has already been explained:
+Also, please, read our documentation, before asking a question, so you can be sure you understand the concept and don't ask something that has already been explained:
 
 * [TREZOR User Manual](https://doc.satoshilabs.com/trezor-user/)
 * [TREZOR FAQ](https://doc.satoshilabs.com/trezor-faq/)
