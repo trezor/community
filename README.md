@@ -12,9 +12,10 @@ This is not a support channel for TREZOR users. If you have an user question or 
 
 Also, please, read our documentation, before asking a question, so you can be sure you understand the concept and don't ask something that has already been explained:
 
-* [TREZOR User Manual](https://doc.satoshilabs.com/trezor-user/)
-* [TREZOR FAQ](https://doc.satoshilabs.com/trezor-faq/)
-* [TREZOR Developer's Guide](https://doc.satoshilabs.com/trezor-tech/)
+* [TREZOR User Manual](https://wiki.trezor.io/User_manual)
+* [TREZOR FAQ](https://wiki.trezor.io/FAQ)
+* [TREZOR Security](https://wiki.trezor.io/Security)
+* [TREZOR Developer's Guide](https://wiki.trezor.io/Developers_guide)
 
 **⇒ [Go to Issues](https://github.com/trezor/community/issues)**
 
